@@ -1,1 +1,7 @@
 # ai-tag
+on bed,(extremely detailed CG unity 8k wallpaper),(((detailed manga illustration))),(((meticulous painting))),ahoge,long_hair,skindentation,no_panties,flat_chest,(((detail fingers))),squatting,Perfect female body,infant,Silver hair,purple eyes,slim waist,virgin,cat girl,enchanter,shiny skin,see-through,white_thighhighs,,
+
+{Multiple people},lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet,cropped,poorly drawn hands,poorly drawn face,mutation,deformed,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,extra fingers,fewer digits,extra limbs,extra arms,extra legs,malformed limbs,fused fingers,too many fingers,long neck,cross-eyed,mutated hands,polar lowres,bad body,bad proportions,gross proportions,text,error,missing fingers,missing arms,missing legs,extra digit,
+
+
+lowres, bad anatomy, bad hands, text, error, extra fingers, extra ears, fused fingers, bad eyes, bad proportions, missing arms, missing legs, extra arms, extra legs, missing hands, malformed limbs, extra fingers, extra heads, extra nipples, fused fingers, bad proportions, missing arms, missing legs, extra arms, extra legs, missing hands, malformed limbs, extra fingers, chibi, loli, face tattoo, extra digits, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, censored, signature, watermark, username, blurry, cropped, sketches,,,
